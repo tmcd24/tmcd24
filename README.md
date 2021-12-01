@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Tom. I'm a high school music teacher looking at a possible career change, currently re-familiarizing myself with HTML and learning CSS and JavaScript.
+- 👋 Hi, I’m Tom. I'm a high school music teacher currently re-familiarizing myself with HTML and learning CSS and JavaScript.
 
 
 <!---
